@@ -3,4 +3,4 @@ main.js가 레이어 스크립트의 기본이고, 나머지는 레이어 종류
 이 파일에 있는 것만으로 지도가 완성되지 않으며, 지도는 UNMINED 라는 프로그램에서 HTML형식으로 Export할 수 있습니다.
 해당 파일 내 차상위폴더에 js 폴더를 생성한 후, js폴더에 .js 형식의 파일들을 넣어주시면 됩니다.
 
-기존에 UNMINED에서 Export한 map.html은 제가 첨부한 파일 map.html로 변경해주세요.
+기존에 UNMINED에서 Export한 index.html은 제가 첨부한 파일 map.html로 변경해주세요.
